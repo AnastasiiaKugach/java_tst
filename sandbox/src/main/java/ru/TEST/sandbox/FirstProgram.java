@@ -1,4 +1,4 @@
-package ru.TEST.sandbox;
+package ru.test.sandbox;
 
 public class FirstProgram {
 
